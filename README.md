@@ -1,6 +1,7 @@
 # PBI-Road-Acccident-Analysis
 
-![Dashboard Image](https://github.com/VladyslavNyzhnyk/Road-Accident-Analysis-with-PowerBI/blob/main/Final%20Dashboard%20Image.PNG "Final Dashboard Image")
+<img width="484" alt="Final Dashboard Image" src="https://github.com/VladyslavNyzhnyk/Road-Accident-Analysis-with-PowerBI/assets/148878903/7d5c0838-04b0-4176-93ea-5596843fd582">
+
 
 ## Table of Contents
 * [Introduction](#Introduction)
